@@ -1,0 +1,19 @@
+Lab-6 
+13/09/2022
+
+Q1. WAP to create a double linked list of n nodes and display the linked list by using suitable user defined functions for create and display operations. 
+
+Q2. WAP to reverse the sequence elements in a double linked list.
+
+Q3. Write a menu driven program to perform the following operations in a double linked list by using suitable user defined functions for each case. 
+a) Traverse the list forward,
+b) Traverse the list backward, 
+c) Check if the list is empty
+d) Insert a node at the certain position (at beginning/end/any position) e) Delete a node at the certain position (at beginning/end/any position)
+f) Delete a node for the given key, g) Count the total number of nodes,
+h) Search for an element in the linked list
+Verify & validate each function from main method
+
+Q4. WAP to remove the duplicates in a sorted double linked list.
+
+Q5. WAP to implement a doubly linked list by using singly linked.

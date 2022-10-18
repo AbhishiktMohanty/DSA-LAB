@@ -1,0 +1,18 @@
+27/09/2022
+LAB-7
+
+Q1. Write a menu driven program to perform the following operations of a stack using array by using suitable user defined functions for each case.
+a) Check if the stack is empty
+b) Display the contents of stack
+c) Push
+d) Pop
+
+Q2. Write a menu driven program to perform the following operations of a stack using linked list by using suitable user defined functions for each case.
+a) Check if the stack is empty
+b) Display the contents of stack
+c) Push 
+d) Pop
+
+Q3. WAP to convert an infix expression into its equivalent postfix notation
+
+Q4. WAP to convert an infix expression into its equivalent prefix notation.

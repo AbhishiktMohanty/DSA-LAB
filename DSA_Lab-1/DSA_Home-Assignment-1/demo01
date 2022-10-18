@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main(){
+    printf("Abhi zod or wat");
+
+    return 0;
+}
