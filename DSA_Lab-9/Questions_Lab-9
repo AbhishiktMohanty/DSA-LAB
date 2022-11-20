@@ -1,0 +1,16 @@
+LAB-9
+01/11/2022
+
+
+1. WAP to read an array of integers and search for an element using linear search.
+
+2. WAP to read an array of integers and search for an element using binary search.
+
+3. Given an array “container[]” and integer “hunt”. WAP to find whether “hunt” is present in 
+container[] or not. If present, then triple the value of “hunt” and search again. Repeat these
+steps until “hunt” is not found. Finally return the value of “hunt”.
+
+Input : container[] = {1, 2, 3} and hunt = 1 then Output : 9
+Explanation: Start with hunt = 1. Since it is present in array, it becomes 3.
+Now 3 is present in array and hence hunt becomes 9 . Since 9 is not present,
+program returns 9.
